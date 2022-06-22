@@ -29,7 +29,7 @@ public class CourseController {
     @GetMapping("/search")
     public List<CourseDto> getAllStudentsByAge(@RequestParam int age){
 
-       return nulll;
+       return null;
     }
 
     @PostMapping
