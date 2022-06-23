@@ -1,6 +1,7 @@
 package edu.miu.rest.service.impl;
 
-import edu.miu.rest.dto.CourseDto;
+
+import edu.miu.rest.dto.SampleCourseDto;
 import edu.miu.rest.entity.Course;
 import edu.miu.rest.repo.CourseRepo;
 import edu.miu.rest.service.CourseService;
